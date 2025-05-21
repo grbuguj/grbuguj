@@ -3,10 +3,12 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 재웅 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 풀스택 개발자 목표!</div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 농장</div> 
     </div>
-    <a href="https://github.com/devxb/gitanimals">
+    <div style="text-align: center;">
+      <a href="https://github.com/devxb/gitanimals">
       <img src="https://render.gitanimals.org/farms/{grbuguj}"/>
+    </div>
     </a>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 

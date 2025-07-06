@@ -2,7 +2,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 재웅 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 풀스택 개발자를 목표로 하고있습니다.</div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 백엔드 개발자를 목표로 하고 있습니다.</div> 
     </div>
     <div style="text-align: center;">
       <a href="https://github.com/devxb/gitanimals">
@@ -21,7 +21,7 @@
           <br/><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-          +Springboot, Amazon AWS, Flutter
+          +Springboot, Amazon AWS,
           </div>
     </div>
     <div style="text-align: left;"> 

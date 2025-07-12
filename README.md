@@ -12,6 +12,7 @@
     MySQL, MariaDB 등의 데이터베이스 설계 및 운영 경험을 쌓고 있습니다.  
     <br/>  
     또한 Docker, EC2, Nginx를 활용한 서버 배포 경험을 통해 실무 감각을 익히고 있습니다.
+    <br/> <br/>  
   </div> 
 </div>
 

@@ -68,5 +68,5 @@
 
 <div style="text-align: left; margin-top: 25px;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📫 Contact </h2>
-  <p style="font-size: 15px;">bugs0613@naver.com / 010-4622-2849</p>
+  <p style="font-size: 15px;">bugs0613@naver.com  /  010-4622-2849</p>
 </div>

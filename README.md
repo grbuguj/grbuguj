@@ -27,15 +27,11 @@
   <div style="text-align: left;"> 
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
     <br/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white">
-    <br/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white">
   </div>
 </div>
 
@@ -53,10 +49,10 @@
       <strong><a href="https://github.com/Unithon-INU/2025_UNITHON_TEAM_17_BE" target="_blank">키피바라</a></strong> – OCR + 바코드 기반 유통기한 관리 및 식품 거래 플랫폼
     </li>
     <li>
-      <strong><a href="https://github.com/grbuguj/campus-sos_backend" target="_blank">캠퍼스 SOS</a></strong> – 학교 커뮤니티 도움 요청 시스템 (EC2 + Docker + Nginx)
+      <strong><a href="https://github.com/grbuguj/campus-sos_backend" target="_blank">캠퍼스 SOS</a></strong> – 학교 커뮤니티 도움 요청 시스템
     </li>
     <li>
-      <strong><a href="https://github.com/E-um-2/frontend" target="_blank">이음이</a></strong> – 자전거 기반 관광 추천 앱 (Flutter + Firebase)
+      <strong><a href="https://github.com/E-um-2/frontend" target="_blank">이음이</a></strong> – 자전거 기반 관광 추천 앱 
     </li>
   </ul>
 </div>

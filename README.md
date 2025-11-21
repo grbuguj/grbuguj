@@ -8,10 +8,7 @@
     <br/>
     백엔드 개발자로 성장 중이며, 특히 금융 시스템과 데이터를 다루는 분야에 관심이 많습니다.  
     <br/> <br/>
-    Spring Boot 기반의 웹 서비스 개발과 RESTful API 설계,  
-    MySQL, MariaDB 등의 데이터베이스 설계 및 운영 경험을 쌓고 있습니다.  
-    <br/>  
-    또한 Docker, EC2, Nginx를 활용한 서버 배포 경험을 통해 실무 감각을 익히고 있습니다.
+    Spring Boot 기반의 웹 서비스 개발과 RESTful API 설계, 데이터베이스 설계 및 운영 경험을 쌓고 있습니다.  
     <br/> <br/>  
   </div> 
 </div>

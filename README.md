@@ -25,6 +25,9 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📂 Projects </h2>
   <ul style="font-size: 15px;">
     <li>
+      <strong><a href="https://woong.io.kr/" target="_blank">계산기 모음</a></strong> – 각종 계산기 모음 웹사이트
+    </li>
+    <li>
       <strong><a href="https://github.com/Unithon-INU/2025_UNITHON_TEAM_17_BE" target="_blank">키피바라</a></strong> – OCR + 바코드 기반 유통기한 관리 및 식품 거래 플랫폼
     </li>
     <li>

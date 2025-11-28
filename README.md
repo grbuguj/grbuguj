@@ -6,9 +6,7 @@
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
     안녕하세요. 인천대학교 정보통신공학과 3학년 재학 중인 김재웅입니다.  
     <br/>
-    백엔드 개발자로 성장 중이며, 특히 금융 시스템과 데이터를 다루는 분야에 관심이 많습니다.  
-    <br/> <br/>
-    Spring Boot 기반의 웹 서비스 개발과 RESTful API 설계, 데이터베이스 설계 및 운영 경험을 쌓고 있습니다.  
+    Spring Boot 기반의 백엔드 개발자로 성장 중이며, 특히 금융 시스템과 데이터를 다루는 분야에 관심이 많습니다.  
     <br/> <br/>  
   </div> 
 </div>

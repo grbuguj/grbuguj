@@ -24,7 +24,7 @@
   <ul style="font-size: 15px;">
     <li>
       <strong><a href="https://woong.io.kr/" target="_blank">계산 도우미</a></strong> – 각종 계산 모음 웹사이트. woong.io.kr. 구글에 '계산도우미' 검색해보세요!
-      <a href="검색!" target="_blank">https://woong.io.kr</a>
+      <a href="https://woong.io.kr" target="_blank">검색!</a>
     </li>
     <li>
       <strong><a href="http://coop-auto.duckdns.org/" target="_blank">COOP-AUTO</a></strong> – 생협 식수데이터 엑셀변환 자동화 사이트

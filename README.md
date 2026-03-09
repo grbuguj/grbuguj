@@ -23,6 +23,9 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Projects </h2>
   <ul style="font-size: 15px;">
     <li>
+      <strong><a href="http://timephoto.kr/" target="_blank">시간의사진관</a></strong> – 사진 기반 기념영상 생성 서비스
+    </li>
+    <li>
       <strong><a href="https://github.com/Go-Cagong" target="_blank">GO!-카공</a></strong> – 지도기반 카공하기 좋은카페 찾는 앱
     </li>
     <li>

@@ -8,8 +8,8 @@
     <br/>
     백엔드 개발자로 성장 중이며, 특히 전체적인 시스템 흐름과 금융분야에 관심이 많습니다.
     <br><br/>
-    트렌드를 서비스로 만드는 팀, "횃불이유괴단"의 팀장을 맡고있습니다.
-    <br><br/>https://torchers-web.vercel.app/
+    트렌드를 서비스로 만드는 팀, "횃불이유괴단"의 팀장을 맡고있습니다.<br>
+    <strong><a href="https://torchers-web.vercel.app" target="_blank">횃불이유괴단</a></strong></div><br/>
     <br/> <br/>  
   </div> 
 </div>

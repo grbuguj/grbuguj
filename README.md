@@ -21,10 +21,12 @@
 </div>
 
 
-
 <div style="text-align: left; margin-top: 25px;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Projects </h2>
   <ul style="font-size: 15px;">
+    <li>
+      <strong><a href="https://github.com/grbuguj/poly-sniper" target="_blank">POLY-Sniper</a></strong> – Spring Boot 기반 실시간 퀀트 트레이딩 봇
+    </li>
     <li>
       <strong><a href="http://timephoto.kr/" target="_blank">시간의사진관</a></strong> – 사진 기반 기념영상 생성 서비스
     </li>

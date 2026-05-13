@@ -25,6 +25,9 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Projects </h2>
   <ul style="font-size: 15px;">
     <li>
+      <strong><a href="https://github.com/grbuguj/ai-finance-world" target="_blank">AI Finance world</a></strong> – 멀티에이전트 기반 금융 거래 백엔드 시뮬레이션 시스템(개발중!)
+    </li>
+    <li>
       <strong><a href="https://github.com/grbuguj/poly-sniper" target="_blank">POLY-Sniper</a></strong> – Spring Boot 기반 실시간 퀀트 트레이딩 봇
     </li>
     <li>
